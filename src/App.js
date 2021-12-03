@@ -1,5 +1,5 @@
 import './App.css';
-import TabApp from './components/navTab';
+import TabApp from './components/Navtab';
 
 
 
